@@ -1,2 +1,3 @@
-# session01
-Bài tập session01
+# Fresh Coco, Gemini
+
+Họ tên: Trần Thiện Chí
